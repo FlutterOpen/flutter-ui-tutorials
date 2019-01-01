@@ -1,3 +1,3 @@
 android/* linguist-vendored
 ios/* linguist-vendored
-linguist-language=Dart
+*.md linguist-language=Dart
